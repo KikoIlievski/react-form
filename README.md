@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Deploying the react-app using GitHub pages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Run `npm install --save-devs gh-pages` to the project directory 
 
 ## Available Scripts
 
